@@ -5,4 +5,5 @@ https://expressjs.com/en/starter/installing.html
 # Getting started
 1. `$ npm install`
 2. `$ node app.js`
-3. Go to the browser http://localhost:3000/
+
+Go to the browser http://localhost:3000/
